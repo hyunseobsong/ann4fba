@@ -1,7 +1,7 @@
 # Coupling Flux Balance Analysis with Reactive Transport Modeling through Machine Learning
 
 ## Release Notes
-A repository for the paper entitled ``Coupling Flux Balance Analysis with Reactive Transport Modeling through Machine Learning for Rapid and Stable Simulation of Microbial Metabolic Switching`` (Song HS et al., Sci Rep, 2025; https://doi.org/10.1038/s41598-025-89997-9). We developed ANNs as a surrogate model for FBA for the integration with reactive-transport models. The peformance of the proposed method was evaluated through the case study of simulating dynamic metabolic switching of _Shewanella oneidensis_ MR-1 in 0-dimenstional batch and 1-dimentional column reactors, resepctively. 
+A repository for the paper entitled ``Coupling Flux Balance Analysis with Reactive Transport Modeling through Machine Learning for Rapid and Stable Simulation of Microbial Metabolic Switching`` (Song et al., Sci Rep, 2025; https://doi.org/10.1038/s41598-025-89997-9). We developed ANNs as a surrogate model for FBA for the integration with reactive-transport models. The peformance of the proposed method was evaluated through the case study of simulating dynamic metabolic switching of _Shewanella oneidensis_ MR-1 in 0-dimenstional batch and 1-dimentional column reactors, resepctively. 
 
 ## System requirements
 Matlab R2015b+ in Windows 
